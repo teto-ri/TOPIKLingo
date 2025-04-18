@@ -7,6 +7,6 @@ TOPIK auto generates question based Gen AI and Implements a mock CBT study platf
 http://www.vinedu.co.kr/
 
 
-*무단 복제 및 참고 금지
+*무단 복제 금지
 
 *상업화로 인해 코드 비공개됨.
